@@ -1,0 +1,15 @@
+int main() {
+    int a = 3;
+    int x = 2 * a;
+    int y = 3 * a;
+    int flag = 0, z, w;
+    if (flag == 0) {
+        z = x+y+1;
+        w = z+1;
+    } else {
+        z = x+y+2;
+        w = z+1;
+    }
+    int t = z+1;
+    return t;
+}

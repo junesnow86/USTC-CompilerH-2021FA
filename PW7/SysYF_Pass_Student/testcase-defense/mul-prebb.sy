@@ -1,0 +1,14 @@
+int main() {
+    int a = 1;
+    int x = 1 * a;
+    int y = 2 * a;
+    int z;
+    int flag = 0;
+    if (flag) {
+        z = x+y;
+    } else {
+        z = x+y-1;
+    }
+    int t = x+y;
+    return (t-z);
+}

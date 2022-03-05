@@ -1,0 +1,8 @@
+const int a[10] = {1,0,1,0,1,0};
+const int b=1;
+float c = b + a[a[a[a[a[0]]]]];
+int main(){
+	int d[5+5];
+	d[0] = 1;
+	return c+d[0];
+}

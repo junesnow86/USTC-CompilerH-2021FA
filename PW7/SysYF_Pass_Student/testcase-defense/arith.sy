@@ -1,0 +1,16 @@
+int main() {
+    int g = 806;
+    int f = 2;
+    int x = g+f;
+    int y = g+f;
+    int flag = 3, u, v;
+    float p = 0.3 * g;
+    if (flag) {
+        u = g % f;
+        v = g % f;
+    } else {
+        u = g / p;
+        v = g / p;
+    }
+    return (u+v);
+}

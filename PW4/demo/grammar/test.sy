@@ -1,0 +1,9 @@
+void main(){
+    int a = 1, c;
+    int b = 0777;
+    b = a * c - a;
+    {a = b + a;}
+    b = -b++c%a;
+    return;
+}
+

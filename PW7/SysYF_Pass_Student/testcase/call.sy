@@ -1,0 +1,10 @@
+int func(int x) {
+    return x+1;
+}
+
+int main() {
+    int i = 1;
+    int j = func(i);
+    int k = func(i);
+    return j+k;
+}

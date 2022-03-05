@@ -1,0 +1,6 @@
+int main() {
+    int a[3] = {1, 2, 3};
+    int x = a[2];
+    int y = a[2];
+    return x-y;
+}

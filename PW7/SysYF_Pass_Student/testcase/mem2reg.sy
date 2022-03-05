@@ -1,0 +1,9 @@
+int main() {
+    int i = 1;
+    int j = 4*i;
+    int k = 4*i;
+    int l = j;
+    i = 6;
+    int x = 4*i;
+    return (x-l-k);
+}

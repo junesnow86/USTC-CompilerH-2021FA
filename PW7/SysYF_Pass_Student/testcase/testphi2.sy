@@ -1,0 +1,13 @@
+int main() {
+    int a = 3;
+    int i = 1 + a;
+    int t1 = 4 * i;
+    int t2, t3;
+    int flag = 1;
+    if (flag) {
+        i = 2+a;
+        t2 = 4 * i;
+    }
+    t3 = 4 * i;
+    return t3;
+}
