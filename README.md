@@ -10,4 +10,7 @@
 ---
 分组实验:
 * PW6: 为SysYF语言生成LLVM IR中间代码
-* PW7: SysYF语言的中间表示(IR)优化 实验发布主页: https://gitee.com/s4plus/SysYF-CodeGen-Opt
+* PW7: SysYF语言的中间表示(IR)优化
+    - 实验发布主页: https://gitee.com/s4plus/SysYF-CodeGen-Opt
+    - 我们小组的仓库: https://gitee.com/compiler21/SysYF-CodeGen-Opt
+
